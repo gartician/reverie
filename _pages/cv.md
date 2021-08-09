@@ -53,13 +53,13 @@ Minor in Chemistry
 
 ## Graduate Researcher | Apr 2019 - Apr 2020
 
-**_Dr. Rohner Lab_**
+**Dr. Rohner Lab**
 
 * Refined an analysis pipeline to identify genetic variants that leads to phenotypic differences in mexican cavefish Astyanax Mexicanus using bash, python, R, and GATK (40+ samples, 3 conditions, > 500 FASTQ files).
 * Discovered 2+ genetic variants (SNPs and indels) in blind, eye-less cavefish Astyanax Mexicanus that leads to abnormal lens development.
 * Frequently tailored complex concepts of variant-calling algorithms to an interdisciplinary team of 3 scientists; drafted the computational section for the upcoming manuscript.
 
-**_Dr. Rohner Lab_**
+**Dr. Alvarado Sanchez**
 * Developed a pipeline using bash, python, and R, to quantify transcript levels in RNA-Seq dataset (7 time points, 4 replicates, 2 conditions).
 * Results were packaged into an R Shiny app for 10+ lab members to view gene expression over time and condition. 
 
