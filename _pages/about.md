@@ -4,26 +4,10 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+![coffee](../images/teach-crop.jpeg)
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+I graduated from the Biochemistry and Biophysics program at Oregon State University, then received my Master's degree in Bioinformatics at the University of Oregon. While in graduate school, I worked with Karen Guillemin's lab in Eugene, OR, and then interned under Dr. Chris Seidel in the Genomics department at the Stowers Institute. As a core bioinformatician, I collaborated with Dr. Nicolas Rohner's Lab to study the genetic adaptations of the cavefish Astayanx mexicanus. In the Maxson Lab, I provides bioinformatics support to all lab members and writes software to analyze sequencing datasets. I am always interested in the latest bioinformatics tools and trends, and I enjoy working with biologists at all levels of the computational spectrum.
 
-## Features
+Outside of the lab, I like to learn just about anything, go running, try out new restaurants, and enjoy my void slonk named Beans.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+![cat](../images/cat-towel.jpg)

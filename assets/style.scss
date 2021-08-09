@@ -454,6 +454,12 @@ body:after {
   line-height: 1.2;
 }
 
+body {
+    min-height: 100vh;
+    max-width: 100%;
+    margin: 100 auto;
+}
+
 .page h1{
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   text-align: center;
@@ -1136,6 +1142,11 @@ Modules - reusable parts of our design
   }
 }
 
+/* line wrap for long lines of code */
+/* code {
+  white-space : pre-wrap !important;
+}
+*/
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
