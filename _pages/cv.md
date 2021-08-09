@@ -1,10 +1,9 @@
 ---
 layout: page
-title: 
+title: ""
 permalink: /cv/
 ---
 
-# Garth Kong
 ## Bioinformatic Scientist
 
 Email: kongga2017@gmail.com
