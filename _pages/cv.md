@@ -4,35 +4,37 @@ title: ""
 permalink: /cv/
 ---
 
+Please download a free PDF version [here](../assets/Garth-Kong-CV.pdf)
+
 # Garth Kong
+
 ## Bioinformatic Scientist
 
-Email: kongga2017@gmail.com
+<center>Email: <a href="kongga2017@gmail.com">kongga2017@gmail.com</a></center>
 
-Website: http://gartician.github.io
+<center>Website: <a href="http://gartician.github.io">http://gartician.github.io</a></center>
 
-Linkedin: http://linkedin.com/garth-kong
+<center>Linkedin: <a href="http://linkedin.com/garth-kong">http://linkedin.com/garth-kong</a></center>
 
 # Bioinformatic Skills
 ---
 
-|  Proficient Languages   |                       Proficient with                        |                        Familiar with                         |                        Experience in                         |
-| :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| Bash<br />Python<br />R | Snake Make<br />Anaconda<br />TIdyverse<br />ggplot2 + plotly<br />Pandas | Seurat<br />SLURM<br />Jupyter<br />RShiny + Dash<br />GNU Parallel | ATAC-Seq<br />ChIP-Seq<br />CITE-Seq<br />CUT&TAG<br />RNA/DNA-Seq |
-
+|  Proficient Languages   |                       Proficient with                        |                        Familiar with                         |
+| :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Bash<br />Python<br />R | Snake Make<br />Anaconda<br />Pandas + TIdyverse<br />ggplot2 + plotly<br /> | Seurat<br />SLURM<br />Parallel Processing <br />RShiny + Dash<br /> |
 
 # Education
 ---
 
-**Master in Bioinformatics and Genomics**
+<center><b>Master in Bioinformatics and Genomics</b></center>
 
-University of Oregon, Jun 2018 - Dec 2019
+<center>University of Oregon, Jun 2018 - Dec 2019</center>
 
-**H. Bachelor in Biochemistry and Biophysics**
+<center><b>H. Bachelor in Biochemistry and Biophysics</b></center>
 
-Oregon State University, Oct 2013 - Apr 2018
+<center>Minor in Chemistry</center>
 
-Minor in Chemistry
+<center>Oregon State University, Oct 2013 - Apr 2018</center>
 
 # Work
 ---
@@ -41,15 +43,10 @@ Minor in Chemistry
 
 **Dr. Julia Maxson Lab**
 
-* Characterizing the epigenetic landscape of acute myeloid leukemia
-
-* Investigating the mechanisms of novel drug combination therapies
-
-* Analyzing and interpreting NGS data with bench scientists to drive projects forward
-
-* Developing, re-purposing, and maintaining pipelines to analyze and re-analyze NGS data
-
-* Contribute analysis methods to manuscripts
+* Provide generic and project-specific analyses to 5 bench scientists to drive projects forward. 
+* Develop, re-purpose, maintain, and test pipelines to analyze sequencing data like ATAC-Seq, ChIP-Seq, CITE-Seq, CUT&TAG, and RNA-Seq.
+* Modify, adapt, and improve open-source bioinformatics tools to fit project objectives.
+* Write the bioinformatic analysis methods for 2 upcoming papers and 2 conference papers.
 
 ## Graduate Researcher | Apr 2019 - Apr 2020
 
@@ -60,6 +57,7 @@ Minor in Chemistry
 * Frequently tailored complex concepts of variant-calling algorithms to an interdisciplinary team of 3 scientists; drafted the computational section for the upcoming manuscript.
 
 **Dr. Alvarado Sanchez**
+
 * Developed a pipeline using bash, python, and R, to quantify transcript levels in RNA-Seq dataset (7 time points, 4 replicates, 2 conditions).
 * Results were packaged into an R Shiny app for 10+ lab members to view gene expression over time and condition. 
 
@@ -68,9 +66,7 @@ Minor in Chemistry
 **Dr. Karen Guillemin Lab**
 
 * Developed an analysis pipeline using Seurat to process single-cell RNA-Seq data (40K cells, 2 conditions) in R.
-
 * Investigated single-cell transcriptomic differences in zebrafish raised in either germ-free (sterile) or conventional (with bacteria) environments to infer the effects of the microbiota on host development.
-
 * Discovered a family of 50+ genes that may be involved in abnormal development in germ-free fish.
 
 ## General Chemistry Lab TA | Sept 2018 – Dec 2018
@@ -89,7 +85,6 @@ As a TRiO tutor at Oregon State University, I participated in team-building acti
 ---
 
 * [Estimate your compute cluster costs at University of Oregon](https://su-calc.herokuapp.com/)
-
 * [How small is the average amaranth seed?](https://gartician.github.io/posts/how-small-is-the-average-amaranth-seed.md)
 
 # Publications
@@ -108,7 +103,7 @@ As a TRiO tutor at Oregon State University, I participated in team-building acti
 - Consistent communication and incorporation of feedback with program manager to adjust program timeline and material.
 - Lead weekly student-mentor meetings to go over project progress and research direction.
 
-# Accolades
+# Awards and Scholarships
 ---
 
 * SURE Summer Research Grants
