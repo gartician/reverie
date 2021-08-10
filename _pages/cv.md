@@ -14,7 +14,7 @@ Please download a free PDF version [here](../assets/Garth-Kong-CV.pdf)
 
 <center>Website: <a href="http://gartician.github.io">http://gartician.github.io</a></center>
 
-<center>Linkedin: <a href="http://linkedin.com/garth-kong">http://linkedin.com/garth-kong</a></center>
+<center>Linkedin: <a href="https://www.linkedin.com/in/garth-kong/">https://www.linkedin.com/in/garth-kong/</a></center>
 
 # Bioinformatic Skills
 ---
