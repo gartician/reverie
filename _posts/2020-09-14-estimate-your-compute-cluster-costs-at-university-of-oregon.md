@@ -47,6 +47,10 @@ Here is the link for the calculator: [https://su-calc.herokuapp.com/](https://su
 
 ![](../images/posts/su-calc.png)
 
+If you are not interested in the code, then I recommend stopping here and go play with the calculator!
+
+---
+
 # Build the app layout
 
 The layout for this application was borrowed from this [link](https://dash-bootstrap-components.opensource.faculty.ai/examples/simple-sidebar/page-1), which contains a simple sidebar.
