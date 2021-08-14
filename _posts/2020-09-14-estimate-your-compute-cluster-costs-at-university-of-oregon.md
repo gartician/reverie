@@ -6,6 +6,8 @@ usemathjax: true
 # add mathjax support: http://webdocs.cs.ualberta.ca/~zichen2/blog/coding/setup/2019/02/17/how-to-add-mathjax-support-to-jekyll.html
 ---
 
+![](../images/posts/dash.png)
+
 # Motivation
 
 Couple of months ago while I was  unemployed, I was looking for opportunities to try something new to  improve my programming skills. Since my background is in bioinformatics, which deals with a lot of text-based data, I wanted to challenge myself in building visually appealing, interactive web applications. I decided to use Dash as my tool to improve my python skills. Here is the calculator: [https://su-calc.herokuapp.com/](https://su-calc.herokuapp.com/).
@@ -43,7 +45,7 @@ Now we know that cost is  calculated by the resources you take up, let’s build
 
 Here is the link for the calculator: [https://su-calc.herokuapp.com/](https://su-calc.herokuapp.com/)
 
-
+![](../images/posts/su-calc.png)
 
 # Build the app layout
 

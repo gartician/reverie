@@ -8,9 +8,16 @@ categories: [Plants, Bioinformatics, R]
 
 Amaranth (莧菜) is a South American crop originally planted by the Aztecs, and is consumed around the world today. Its leaves are fibrous and filling, the plant itself is a prolific grower in hot and humid climates, and amazingly each plant generates a staggering number of seeds about the size of the period at the end of this sentence. In fact, one plant can produce thousands of potent seeds; in other words, one plant can seed an acre of land. It is also one of my favorite plants because its leaves are great for soup, its seeds are nutritious and tastes like popcorn, and it’s a beautiful purple-pink, unwieldy, lavish mess of a plant to witness in person. In this project, I want to observe physical properties (width, height, volume, mass) of amaranth seeds, and amount of seeds produced per plant. I will be using tools of data science like R and basic statistics to supplement my observations.
 
+![](../images/posts/amaranth1.png)
+_Flowering structure of the amaranth plant._
+
+
 # Methods: seed harvesting
 
 Harvesting amaranth seeds is not difficult, but it was time consuming (1.5 hrs) in order to maximize yield. About 100 grams of the flowering structure were harvested and placed into a bag. To separate the seeds from its flower, firmly pinch, rub, and pull on the flower structure – like the posture of the left hand in the above picture. This process takes the longest time because there are lots of branches and flowers.
+
+![](../images/posts/amaranth2.png)
+_Drying seeds on a cookie sheet._
 
 Once this is done, the seed / flower petal / branch mixture are sifted through a fine filter. The results won’t be biased for seeds that go through this filter because > 95% of the seeds can pass through this filter. Although this step is shorter, it is the step where seeds can get lost and scattered if impatient. The result is a mixture of seeds and flower petals. Since the flower petals are much lighter (and purplier) than the seeds, I purify the seeds by collecting them into a bowl, and gently blow on the seeds while one hand is making the swirling motion with the bowl. To improve the confetti-like experience, wearing sunglasses in this step will protect the eyes from scattering petals and enhance the confusion factor to strangers passing by. The seeds were laid on a flat surface for drying.
 
@@ -82,6 +89,8 @@ bootstrap.mean.sd <- plot_grid(p1, p2, p3, p4, nrow = 2)
 
 ```
 
+![](../images/posts/amaranth3.png)
+
 # Results: amaranth seed size
 
 After random sampling of the original data 100K times with sample_size of 14 and taking each iteration’s mean and sd, we arrive to the following statistics and the following distributions:
@@ -108,6 +117,8 @@ bootstrapped.mean <- ggplot(amaranth, aes(x = volume)) +
 
 ```
 
+![](../images/posts/amaranth4.png)
+
 # Results: yield calculations
 
 Here are quick back-of-the-envelope calculations to see the yield of amaranth plants per season. Assuming I isolated 20 g of seed from 100 g of amaranth biomass (seeds + branches) from 12 plants, that is 1.67 grams of seeds per plant or 0.2 grams of seeds per gram of plant biomass.
@@ -120,6 +131,6 @@ The amaranth plant is a hardy and proliferative crop whose seeds are tiny and nu
 
 The volume of a mol of amaranth seeds (2.7692×1023 mm3) is enough to:
 
-    * smother and fill the Stowers research institute 1.08 million times assuming 600K sq.ft workspace and 15 ft ceilings.
-    * cover the entire volume of the Great Lakes 12 times over
-    * pack the Pacific Ocean at 0.04% capacity
+* smother and fill the Stowers research institute 1.08 million times assuming 600K sq.ft workspace and 15 ft ceilings.
+* cover the entire volume of the Great Lakes 12 times over
+* pack the Pacific Ocean at 0.04% capacity
