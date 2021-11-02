@@ -18,8 +18,8 @@ In addition to work-related projects, I try to contribute work to open-source pr
 
 | Project                                                      | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [MultiQC Sambamba MarkDup](https://github.com/ewels/MultiQC/pull/1421) | Calculate duplication rate for paired and single-end sequencing libraries. |
 | [MultiQC GoPeaks](https://github.com/ewels/MultiQC/pull/1562) | Parse the output log file for GoPeaks to display peak counts per sample to the user. |
+| [MultiQC Sambamba MarkDup](https://github.com/ewels/MultiQC/pull/1421) | Calculate duplication rate for paired and single-end sequencing libraries. |
 | [HINT-ATAC](https://github.com/CostaLab/reg-gen/issues/164)  | Fixed sequencing depth normalization problems for ATAC-Seq footprinting. |
 
 \*Most of this project was written by me.
