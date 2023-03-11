@@ -104,7 +104,7 @@ The plots are faceted by individual samples. Each x tick is a user, the y-axis s
 
 ## Number of peaks in the peak file
 
-![](../images/posts/benchmark-bed.png)
+![](../images/posts/benchmark-de.png)
 
 The number of peaks obtained per sample (treatment and IgG) is important to get right. This means that the peak caller (and previous steps like alignment and removal of duplicates) are generating the same data. 
 
